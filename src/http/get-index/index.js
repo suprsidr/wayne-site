@@ -11,7 +11,7 @@ exports.handler = async function Index () {
     title: 'My personal site!',
     occupation: 'Developer',
     location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    bio: 'Originally from NY',
 
     /**
      * Contact / social
