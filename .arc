@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+make-171
+
+@static
 
 @http
 get /
+get /contact
 
 @tables
 data
