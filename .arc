@@ -5,7 +5,6 @@ make-171
 
 @http
 get /
-get /contact
 
 @tables
 data
